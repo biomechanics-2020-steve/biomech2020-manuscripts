@@ -1,3 +1,6 @@
 [submodule "ew404-sp2020-biomechanics"]
 	path = ew404-sp2020-biomechanics
 	url = ssh://git@github.com/devangel77b/ew404-sp2020-biomechanics.git
+[submodule "ew401-fa2019-biomechanics"]
+	path = ew401-fa2019-biomechanics
+	url = git@github.com:devangel77b/ew401-fa2019-biomechanics.git
